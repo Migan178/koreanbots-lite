@@ -1,0 +1,12 @@
+{
+  "name": "koreanbots-lite",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "undici": "^5.13.0"
+  },
+  "author": "Jeon Siwoo <migam9857@gmail.com>",
+  "repository": "https://github.com/Migan178/koreanbots-lite"
+}
