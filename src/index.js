@@ -17,6 +17,5 @@ exports.koreanbots = async ({ token, id, servers, shards }) => {
     },
     body: JSON.stringify({ servers: servers, shards: shards }),
   })
-  console.log(await a.body.json())
-  return a
+  return await a
 }
