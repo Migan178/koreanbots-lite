@@ -2,12 +2,22 @@
 # yarn lockfile v1
 
 
+"@migan/prettier-config@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@migan/prettier-config/-/prettier-config-1.0.0.tgz#1a558c433f0d69b8edb446fd94d264c87c212110"
+  integrity sha512-nYpgIVXdtdDJ7KEmSIE826E9TGNlcKgH1CcK0QgV13hoqrP9Qjq5v/JFK+TSHQtcplXAUDeMm+HRSOZTbXuApQ==
+
 busboy@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/busboy/-/busboy-1.6.0.tgz#966ea36a9502e43cdb9146962523b92f531f6893"
   integrity sha512-8SFQbg/0hQ9xy3UNTB0YEnsNBbWfhf7RtnzpL7TkBiTBRfrQ9Fxcnz7VJsleJpyp6rVLvXiuORqjlHi5q+PYuA==
   dependencies:
     streamsearch "^1.1.0"
+
+prettier@^2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.1.tgz#4e1fd11c34e2421bc1da9aea9bd8127cd0a35efc"
+  integrity sha512-lqGoSJBQNJidqCHE80vqZJHWHRFoNYsSpP9AjFhlhi9ODCJA541svILes/+/1GM3VaL/abZi7cpFzOpdR9UPKg==
 
 streamsearch@^1.1.0:
   version "1.1.0"
